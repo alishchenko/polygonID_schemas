@@ -1,0 +1,31 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "LocktonOneUser": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:952d9d26-c6e0-4dce-a9b0-b6c36e872c2e#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "birthday": {
+                        "@id": "polygon-vocab:birthday",
+                        "@type": "xsd:double"
+                    },
+                    "sex": {
+                        "@id": "polygon-vocab:sex",
+                        "@type": "xsd:string"
+                    },
+                    "citizenship": {
+                        "@id": "polygon-vocab:citizenship",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:e25d502b-44a9-4e09-9b02-669b81c2ab65"
+            }
+        }
+    ]
+}
