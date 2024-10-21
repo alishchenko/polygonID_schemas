@@ -24,7 +24,7 @@
             "@type": "xsd:string"
           }
         },
-        "@id": "urn:uuid:e25d502b-44a9-4e09-9b02-669b81c2ab65"
+        "@id": "https://raw.githubusercontent.com/alishchenko/polygonID_schemas/main/lockton-user.jsonld#LocktonOneUser"
       }
     }
   ]
