@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "LocktonOneUser",
         "uris": {
-            "jsonLdContext": "https://example.com/path/to/file/context.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/alishchenko/polygonID_schemas/refs/heads/main/LocktonOneUser.jsonld"
         },
         "version": "1.0"
     },
